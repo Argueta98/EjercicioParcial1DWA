@@ -43,7 +43,7 @@ function empleadoU(horasTrabajo, precioHora,personaP){
             console.log("Total: $"+(rect.proyectoTotal()+rect.holguraProyecto()));
             console.log("-----------------------------------------------------");
         }
-        //return empleado;
+        return empleado;
     });
 
 }
